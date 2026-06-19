@@ -18,7 +18,7 @@ Resuelve el problema permisos bajo control utilizando la técnica de Backtrackin
 Datos del problema permisos bajo control.
 
 ## Ejemplo de salida
-Asignación correcta de personas, salas y pistas.
+Asignación correcta de personas.
 
 ## Principales resultados
 Se encontró una solución válida cumpliendo todas las restricciones.
