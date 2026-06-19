@@ -9,7 +9,7 @@ Andrea
 Permisos bajo control
 
 ## Cómo ejecutar el notebook
-Abrir el archivo proyecto.ipynb en Google Colab o Jupyter Notebook.
+Abrir el archivo proyecto.ipynb en Google Colab.
 
 ## Qué hace el algoritmo
 Resuelve el problema permisos bajo control utilizando la técnica de Backtracking.
